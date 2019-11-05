@@ -1,2 +1,4 @@
 file1 is a textfile
 adding new lines
+hai how are you
+
